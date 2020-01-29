@@ -1,0 +1,26 @@
+.body {
+  width: 100%;
+
+}
+
+.title {
+  display: flex; justify-content: center;position: absolute; width: 100%; padding-top: 150px;
+}
+
+.title h1 {
+  font-size: 50px;
+}
+
+.text {
+  padding-top: 300px;
+  width: 100%;
+  padding-left: 50px;
+}
+
+img {
+  float: right;
+  margin-left: 100px;
+  padding-right: 50px;
+}
+
+
