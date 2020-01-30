@@ -11,5 +11,21 @@
   font-size: 50px;
 }
 .cards {
-  padding-top: 50px; display: flex; position: absolute; justify-content: center; width: 100%; padding-top: 350px;
+  padding-top: 50px;
+  display: flex;
+  position: absolute;
+  justify-content: center;
+  width: 100%;
+  padding-top: 350px;
+
+}
+
+button {
+  background-color: lightblue!important;
+  color: white !important;
+  border-radius: 15px;
+}
+
+button:hover {
+  background-color: lightcoral !important;
 }
