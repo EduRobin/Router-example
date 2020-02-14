@@ -1,0 +1,31 @@
+.body {
+  width: 100%;
+
+}
+
+.title {
+  display: flex; justify-content: center; width: 100%; padding-top: 100px;
+}
+
+.title h1 {
+  font-size: 50px;
+  float: left;
+  height: 100px;
+  border-bottom: 3px solid lightblue;
+}
+
+.text {
+  padding-top: 100px;
+  width: 100%;
+  padding-left: 50px;
+}
+
+img {
+  float: right;
+  margin-left: 100px;
+
+  border-radius: 20px;
+}
+
+
+
